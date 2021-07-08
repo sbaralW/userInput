@@ -1,0 +1,379 @@
+html {
+  overflow: auto;
+}
+
+body {
+  width: 8.00in;
+  height: 10.25in;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#foregroundImg {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* #mainImg {
+  position: absolute;
+  width: 4.27in;
+  height: 5.60in;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+#home1Img {
+  position: absolute;
+  width: 2.30in;
+  height: 2.07in;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#home2Img {
+  position: absolute;
+  width: 2.30in;
+  height: 2.07in;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#home3Img {
+  position: absolute;
+  left: 5.553in;
+  top: 6.625in;
+  width: 2.30in;
+  height: 2.07in;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@font-face {
+  font-family: 'BebasNeue';
+  font-style: normal;
+  vertical-align: middle;
+  src: url('../font/BebasNeue Bold.ttf');
+}
+
+#rightImgLine1 {
+  position: absolute;
+  text-align: center;
+  width: 4.18in;
+  height: 0.83in; 
+  font-family: 'BebasNeue';
+  line-height: 0.8;
+  font-size: 102px;
+  transform: scaleX(1.2);
+}
+
+#rightImgLine2 {
+  position: absolute;
+  text-align: center;
+  width: 4.18in;
+  height: 0.857in;
+  font-family: 'BebasNeue';
+  line-height: 0.8;
+  font-size: 106px;
+  transform: scaleX(1.2);
+}
+
+#rightImgLine3{
+  position: absolute;
+  text-align: center;
+  width: 4.18in;
+  height: 0.88in;
+  font-family: 'BebasNeue';
+  line-height: 0.8;
+  font-size: 112px;
+  transform: scaleX(1.2);
+}
+
+#rightImgLine4 {
+  position: absolute;
+  text-align: center;
+  width: 4.18in;
+  height: 0.99in;
+  font-family: 'BebasNeue';
+  line-height: 0.8;
+  font-size: 86px;
+  transform: scaleX(1.2);
+}
+
+#leftImgLine1 {
+  position: absolute;
+  text-align: center;
+  width: 3.75in;
+  height: 0.85in;
+  font-family: 'BebasNeue';
+  line-height: 0.8;
+  font-size: 102px;
+  transform: scaleX(1.1);
+}
+
+#leftImgLine2{
+  position: absolute;
+  text-align: center;
+  width: 3.75in;
+  height: 0.88in;
+  font-family: 'BebasNeue';
+  line-height: 0.8;
+  font-size: 106px;
+  transform: scaleX(1.1);
+}
+
+#leftImgLine3{
+  position: absolute;
+  text-align: center;
+  width: 3.75in;
+  height: 0.89in;
+  font-family: 'BebasNeue';
+  line-height: 0.8;
+  font-size: 112px;
+  transform: scaleX(1.1);
+}
+
+@font-face {
+  font-family: 'Montserrat-Bold';
+  font-style: normal;
+  src: url('../font/Montserrat-Bold.ttf');
+}
+
+#leftImgLine4{
+  position: absolute;
+  text-align: left;
+  width: 3.80in;
+  height: 0.29in;
+  font-family: 'Montserrat-Bold';
+  line-height: 0.8;
+  font-size: 25px;
+}
+
+#leftImgLine5 {
+  position: absolute;
+  text-align: left;
+  width: 3.80in;
+  height: 0.29in;
+  font-family: 'Montserrat-Bold';
+  line-height: 0.8;
+  font-size: 21px;
+  transform: scaleY(1.4);
+  padding-top: 3px;
+}
+
+@font-face {
+  font-family: 'Montserrat-SemiBold';
+  font-style: normal;
+  src: url('../font/Montserrat-SemiBold.ttf');
+}
+
+#text-main-left-list {
+  position: absolute;
+  text-align: left;
+  left: 0.6in;
+  top: 5.2in;
+  font-family: 'Montserrat-SemiBold';
+  color: #1b1f21;
+  z-index: 6;
+  line-height: 0.8;
+  font-size: 19px;
+}
+
+#text-main-left-list div {
+  height: 30px;
+}
+#leftList1 {
+  position: absolute;
+  text-align: left;
+  font-family: 'Montserrat-SemiBold';
+  line-height: 0.8;
+  font-size: 19px;
+  height: 30px;
+}
+#leftList2 {
+  position: absolute;
+  text-align: left;
+  font-family: 'Montserrat-SemiBold';
+  line-height: 0.8;
+  font-size: 19px;
+  height: 30px;
+}
+#leftList3 {
+  position: absolute;
+  text-align: left;
+  font-family: 'Montserrat-SemiBold';
+  line-height: 0.8;
+  font-size: 19px;
+  height: 30px;
+}
+#leftList4 {
+  position: absolute;
+  text-align: left;
+  font-family: 'Montserrat-SemiBold';
+  line-height: 0.8;
+  font-size: 19px;
+  height: 30px;
+}
+
+@font-face {
+  font-family: 'big_noodle_titling';
+  font-style: normal;
+  src: url('../font/big_noodle_titling.ttf');
+}
+
+#homeImg1Line1{
+  position: absolute;
+  text-align: center;
+  width: 2.66in;
+  font-size: 26px;
+  height: 0.75in;
+  top: 8.72in;
+  font-family: 'big_noodle_titling';
+  line-height: 0.8;
+}
+
+#homeImg1Line2 {
+  position: absolute;
+  text-align: center;
+  height: 0.75in;
+  font-family: 'big_noodle_titling';
+  line-height: 0.8;
+  width: 2.66in;
+  font-size: 40px;
+}
+
+#homeImg2Line1{
+  position: absolute;
+  text-align: center;
+  width: 2.66in;
+  height: 0.75in;
+  font-family: 'big_noodle_titling';
+  line-height: 0.8;
+  font-size: 26px;
+}
+
+#homeImg2Line2{
+  position: absolute;
+  text-align: center;
+  width: 2.66in;
+  height: 0.75in;
+  font-family: 'big_noodle_titling';
+  line-height: 0.8;
+  font-size: 40px;
+}
+
+#homeImg3Line1 {
+  position: absolute;
+  text-align: center;
+  width: 2.66in;
+  height: 0.75in;
+  font-family: 'big_noodle_titling';
+  line-height: 0.8;
+  font-size: 26px;
+}
+
+#homeImg3Line2{
+  position: absolute;
+  text-align: center;
+  width: 2.66in;
+  height: 0.75in;
+  font-family: 'big_noodle_titling';
+  line-height: 0.8;
+  font-size: 40px;
+}
+
+#footer {
+  position: absolute;
+  text-align: left;
+  width: 8in;
+  height: 0.82in;
+  top: 9.40in;
+  font-family: 'Montserrat-SemiBold';
+  z-index: 6;
+}
+
+#qrcode1FrontImg {
+  position: absolute;
+  width: 0.583in;
+  height: 0.583in;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#locationFront {
+  position: absolute;
+  text-align: left;
+  height: 0.82in;
+  font-family: 'Montserrat-SemiBold';
+  width: 3.7in;
+  font-size: 13.5px
+}
+
+#linkFront {
+  position: absolute;
+  text-align: left;
+  width: 2.3in;
+  height: 0.82in;
+  font-family: 'Montserrat-SemiBold';
+  font-size: 12px;
+}
+
+@font-face {
+  font-family: 'HelveticaWorld-Bold';
+  font-style: normal;
+  src: url('../font/HelveticaWorld-Bold.ttf');
+}
+
+#contact-detail {
+  position: absolute;
+  text-align: center;
+  left: 1.3in;
+  width: 2.5in;
+  height: 1.6in;
+  top: 0.1in;
+  font-family: 'HelveticaWorld-Bold';
+  line-height: 0.8;
+  z-index: 6;
+}
+
+#phoneNum {
+  position: absolute;
+  width: 2.5in;
+  font-family: 'HelveticaWorld-Bold';
+  line-height: 0.8;
+  font-size: 32px
+}
+
+#presentedBy {
+  position: absolute;
+  width: 2.5in;
+  font-size: 16.5px;
+  font-family: 'HelveticaWorld-Bold';
+  line-height: 0.8;
+}
+
+#name {
+  position: absolute;
+  width: 2.5in;
+  font-size: 13px;
+  font-family: 'HelveticaWorld-Bold';
+  line-height: 0.8
+}
+
+#details1 {
+  position: absolute;
+  width: 2.5in;
+  font-size: 8px;
+  line-height: 1.2;
+  font-family: 'HelveticaWorld-Bold';
+}
+#details2 {
+  position: absolute;
+  width: 2.5in;
+  font-size: 8px;
+  line-height: 1.2;
+  font-family: 'HelveticaWorld-Bold';
+}

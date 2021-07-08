@@ -1,0 +1,224 @@
+---
+foregroundImg:
+  type: img
+  css:
+    width: 8.00in
+    height: 10.25in
+    zIndex: 5
+mainImg:
+  type: img
+  css:
+    position: absolute
+    left: 3.73in
+    top: 0in
+    width: 4.27in
+    height: 5.60in
+    backgroundRepeat: no-repeat
+    backgroundSize: cover
+    zIndex: 2
+home1Img:
+  type: img
+  css:
+    left: 0.250in
+    top: 6.625in
+    zIndex: 2
+home2Img:
+  type: img
+  css:
+    left: 2.895in
+    top: 6.625in
+    zIndex: 2
+home3Img:
+  type: img
+  css:
+    left: 5.553in
+    top: 6.625in
+    zIndex: 2
+qrcode1FrontImg:
+  type: img
+  css:
+    left: 0.230in
+    top: 9.495in
+    zIndex: 2
+rightImgLine1:
+  type: text
+  css:
+    left: 3.800in
+    top: 3.033in
+    color: "#ffffff"
+    zIndex: 6
+rightImgLine2:
+  type: text
+  css:
+    left: 3.800in
+    top: 3.87in
+    color: "#ffffff"
+    zIndex: 6
+rightImgLine3:
+  type: text
+  css:
+    left: 3.800in
+    top: 4.72in
+    color: "#ffffff"
+    zIndex: 6
+rightImgLine4:
+  type: text
+  css:
+    left: 3.800in
+    top: 5.75in
+    color: "#4f9def"
+    zIndex: 6
+leftImgLine1:
+  type: text
+  css:
+    left: 0in
+    top: 1.82in
+    color: "#ffffff"
+    zIndex: 6
+leftImgLine2:
+  type: text
+  css:
+    left: 0in
+    top: 2.67in
+    color: "#ffffff"
+    zIndex: 6
+leftImgLine3:
+  type: text
+  css:
+    left: 0in
+    top: 3.54in
+    color: "#ffffff"
+    zIndex: 6
+leftImgLine4:
+  type: text
+  css:
+    left: 0.17in
+    top: 4.42in
+    color: "#1b1f21"
+    zIndex: 6
+leftImgLine5:
+  type: text
+  css:
+    left: 0.17in
+    top: 4.77in
+    color: "#4f9def"
+    zIndex: 6
+homeImg1Line1:
+  type: text
+  css:
+    left: 0in
+    top: 8.72in
+    color: "#ffffff"
+    zIndex: 6
+homeImg1Line2:
+  type: text
+  css:
+    left: 0in
+    top: 8.96in
+    color: "#ffffff"
+    zIndex: 6
+homeImg2Line1:
+  type: text
+  css:
+    left: 2.66in
+    top: 8.72in
+    color: "#ffffff"
+    zIndex: 6
+homeImg2Line2:
+  type: text
+  css:
+    left: 2.66in
+    top: 8.96in
+    color: "#ffffff"
+    zIndex: 6
+homeImg3Line1:
+  type: text
+  css:
+    left: 5.32in
+    top: 8.72in
+    color: "#ffffff"
+    zIndex: 6
+homeImg3Line2:
+  type: text
+  css:
+    left: 5.32in
+    top: 8.96in
+    color: "#ffffff"
+    zIndex: 6
+locationFront:
+  type: text
+  css:
+    left: 1.52in
+    top: 9.70in
+    color: "#4f9def"
+    zIndex: 6
+linkFront:
+  type: text
+  css:
+    left: 5.7in
+    top: 9.70in
+    color: "#4f9def"
+    zIndex: 6
+leftList1:
+  type: text
+  css:
+    left: 0.6in
+    top: 5.2in
+    color: "#1b1f21"
+    zIndex: 6
+leftList2:
+  type: text
+  css:
+    left: 0.6in
+    top: 5.52in
+    color: "#1b1f21"
+    zIndex: 6
+leftList3:
+  type: text
+  css:
+    left: 0.6in
+    top: 5.82in
+    color: "#1b1f21"
+    zIndex: 6
+leftList4:
+  type: text
+  css:
+    left: 0.6in
+    top: 6.12in
+    color: "#1b1f21"
+    zIndex: 6
+phoneNum:
+  type: text
+  css:
+    left: 1.5in
+    top: " 0.1in"
+    color: "#710d37"
+    zIndex: 6
+presentedBy:
+  type: text
+  css:
+    left: 1.3in
+    top: 1.13in
+    color: "##393838"
+    zIndex: 6
+name:
+  type: text
+  css:
+    left: 1.42in
+    top: 1.32in
+    color: "#710d37"
+    zIndex: 6
+details1:
+  type: text
+  css:
+    left: 1.42in
+    top: 1.49in
+    color: "#710d37"
+    zIndex: 6
+details2:
+  type: text
+  css:
+    left: 1.42in
+    top: 1.57in
+    color: "#710d37"
+    zIndex: 6
