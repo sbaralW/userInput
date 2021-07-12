@@ -1,0 +1,33 @@
+---
+foregroundImg: foregroundImgFront.png
+mainImg: "Main-Image.jpg" #var
+home1Img: "Home-1.jpg" #var
+home2Img: "Home-2.jpg" #var
+home3Img: "Home-3.jpg" #var
+rightImgLine1: ...IS GONE, #10 characters
+rightImgLine2: FOR WAY #7 characters
+rightImgLine3: ABOVE #7 characters
+rightImgLine4: $869,000 #9 characters
+leftImgLine1: THIS AWESOME #1 characters
+leftImgLine2: FREMONT #7 characters
+leftImgLine3: HOME #7 characters
+leftList1: We have #17 characters
+leftList2: Pre-Approved Buyers #17 characters
+leftList3: WANTING TO MOVE INTO THIS AREA. #28 charactersr
+leftList4: Ready to Pay #22 characters
+leftList5: Price Acceptable to you #23 characters
+leftList6: ...and YOU CAN MOVEOUT ON YOUR OWN TERMS. #36 characters
+homeImg1Line1: STAGED #24 characters
+homeImg1Line2: PROFESSIONALLY #19 characters
+homeImg2Line1: TASTEFULLY #24 characters
+homeImg2Line2: PRESENTED #19 characters
+homeImg3Line1: REALIZE #24 characters
+homeImg3Line2: MAXIMUM VALUE #19 characters
+qrcode1FrontImg: "qrcode1Front.png" #var
+locationFront: '37619 Fremont Blvd, #205, Fremont, CA 94536.' #40 characters
+linkFront: pending.37619FremontBlvd.com #30 characters
+phoneNum: 925-452-7483
+presentedBy: 'Presented by:'
+name: Praveen Kumar
+details1: 'Broker Owner/Realtor®'
+details2: 'CA BRE Lic # 01928307'
